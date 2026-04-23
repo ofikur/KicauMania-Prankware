@@ -1,6 +1,8 @@
-# KicauMania Prankware
+<div align="center">
+  <h1>Kicaumania Prankware</h1>
+  <img src="assets/images/cat.gif" alt="Kicaumania" />
+</div>
 
-## Deskripsi
 Kicaumania Prankware adalah sebuah perangkat lunak lelucon interaktif yang dirancang untuk sistem operasi Windows. Aplikasi ini berjalan di latar belakang dengan menampilkan animasi overlay transparan pada layar dan memutar audio secara berulang. 
 
 Program ini dikembangkan murni untuk tujuan hiburan dan demonstrasi pemrograman antarmuka Windows API. Perangkat lunak ini diklasifikasikan sebagai aman, tidak mengubah registri inti, tidak mencuri data, dan tidak merusak fungsi sistem operasi.
